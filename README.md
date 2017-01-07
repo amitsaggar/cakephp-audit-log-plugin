@@ -12,7 +12,7 @@ Or alternatively use git to clone this branch in the appropriate path
 
 ### Setup Database
 
-If you are not using Migrations: Directly execute the SQL-script `AuditLog/src/scripts/schema.sql`
+Directly execute the SQL-script `AuditLog/src/scripts/schema.sql`
 
 ### Load the Plugin
 
